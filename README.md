@@ -45,29 +45,33 @@ I'm a Data Science student at UC San Diego. I love solving real-world problems t
 
 ## 📂 Featured Projects
 
-### [Email Summarizer](https://github.com/yourusername/email-summarizer)
-**Technologies**: Python, Google API, OpenAI API  
-A tool to quickly summarize daily emails, saving time with automated NLP-based summaries.
+### [Email Summarizer](https://github.com/Peter-Shamoun/Email-Summarizer)
+**Technologies**: Python, Google API, OpenAI API, React.JS  
+A tool to quickly summarize daily emails, saving time with automated NLP-based summaries with a React app frontend.
 
-### [Sharp Healthcare AI Voice Assistant](https://github.com/yourusername/sharp-ai-voice-assistant)
+### [Sharp Healthcare AI Voice Assistant](https://github.com/Peter-Shamoun/Sharp-Healthcare-AI-Voice-Assistant)
 **Technologies**: Node.js, OpenAI API, Twilio API  
-An AI voice assistant designed for navigating healthcare apps with ease, including voice commands.
+An AI voice assistant designed for navigating the Sharp Healthcare app with ease, including voice commands.
 
-### [AI-Powered Supermarket Deal Finder](https://github.com/yourusername/deal-finder)
-**Technologies**: Python, Selenium, Streamlit  
-An application that finds the best supermarket deals by scraping ad images and analyzing prices.
+### [AI-Powered Supermarket Deal Finder](https://github.com/Peter-Shamoun/Deal-Finder)
+**Technologies**: Python, OpenAI API, Beautifulsoup, Selenium, Streamlit  
+An application that finds the best supermarket deals by using the OpenAI API to gather prices from scraped ad images. The project uses a streamlit UI that allows easily the user to  see the best deals for a product
 
-### [Tripadvisor Sentiment Analysis](https://github.com/yourusername/tripadvisor-sentiment-analysis)
-**Technologies**: TensorFlow, Keras, Flask  
-A sentiment analysis system that predicts review ratings with deep learning.
+### [Jurrasic Classifier](https://github.com/Peter-Shamoun/Jurassic-Classifier)
+**Technologies**: Python, Pandas, PIL, TensorFlow, Flask  
+A deep learning web application that identifies dinosaur species from images using an ensemble of convolutional neural networks.
+
+### [Tripadvisor Sentiment Analysis](https://github.com/Peter-Shamoun/Tripadvisor-Sentiment-Analysis)
+**Technologies**: Python, Pandas, TensorFlow, Flask  
+A deep learning web application that predicts hotel review ratings based on user input using a neural network model with a Flask frontend. 
 
 ---
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/petershamoun)
-[![Personal Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=web&logoColor=white)](https://petershamoun.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:peter@petershamoun.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/peter-shamoun)
+[![Personal Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=web&logoColor=white)](https://petershamoun.com/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:petershamoun80@gmail.com)
 
 ---
 
