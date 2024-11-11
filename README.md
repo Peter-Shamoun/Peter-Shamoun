@@ -1,7 +1,8 @@
 ## <img src="py.png" alt="Python" width="160"/> <img src="sql.png" alt="SQL" width="160"/> <img src="java.png" alt="Java" width="160"/> <img src="react.png" alt="React" width="160"/> <img src="js.png" alt="JS" width="160"/>
 ---
 
-## Hi, 👋 I'm Peter Shamoun
+<h2 style="text-align: center; font-size: 36px;">Hi, 👋 I'm Peter Shamoun</h2>
+
 
 **Data Science Student and Developer**
 
