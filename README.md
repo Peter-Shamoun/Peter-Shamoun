@@ -1,4 +1,4 @@
- ## <img src="py.png" alt="Python" width="160"/> <img src="sql.png" alt="SQL" width="160"/> <img src="java.png" alt="Java" width="160"/> <img src="react.png" alt="React" width="160"/> <img src="js.png" alt="JS" width="160"/>
+ ## <img src="py.png" alt="Python" width="140"/> <img src="sql.png" alt="SQL" width="140"/> <img src="java.png" alt="Java" width="140"/> <img src="react.png" alt="React" width="140"/> <img src="js.png" alt="JS" width="140"/>
  
 ---
 
