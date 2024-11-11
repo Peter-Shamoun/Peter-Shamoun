@@ -2,7 +2,7 @@
 
 ---
 
-## Hi, I'm Peter Shamoun
+## Hi, 👋 I'm Peter Shamoun
 
 **Data Science Student and Developer**
 
