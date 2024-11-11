@@ -1,4 +1,4 @@
- ## ![python](py.png) ![sql](sql.png) ![java](java.png) ![react](react.png) ![vscode](vscode.png)
+ ## <img src="py.png" alt="Python" width="40"/> <img src="sql.png" alt="SQL" width="40"/> <img src="java.png" alt="Java" width="40"/> <img src="react.png" alt="React" width="40"/> <img src="vscode.png" alt="VSCode" width="40"/>
  
 ---
 
