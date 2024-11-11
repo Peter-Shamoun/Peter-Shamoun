@@ -5,13 +5,13 @@
 
 **Data Science Student and Developer**
 
-I'm a Data Science student at UC San Diego with a love for solving real-world problems through data science. From machine learning research to software engineering, I enjoy creating projects that impact my life and the community. Always excited to collaborate and learn something new!
+I'm a Data Science student at UC San Diego. I love solving real-world problems through data science. From machine learning research to software engineering, I enjoy creating projects that impact my life and the community. I'm always excited to collaborate and learn something new!
 
 - 📍 Based in San Diego, CA
-- 📖 Check out my latest [blog posts](https://petershamoun.com)
-- 📫 Reach me at: **[peter@petershamoun.com](mailto:peter@petershamoun.com)**
-- 🌱 Currently learning advanced NLP and computer vision
-- 🤝 Open to collaborating on **Machine Learning** and **AI** projects
+- 📖 Check out my [website](https://petershamoun.com)
+- 📫 Reach me at: **[petershamoun80@gmail.com](mailto:petershamoun80@gmail.com)**
+- 🌱 Currently specializing in machine learning and AI
+- 🤝 Open to collaborating on data-related projects!
 
 ---
 
