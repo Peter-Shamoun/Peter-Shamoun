@@ -74,5 +74,3 @@ A deep learning web application that predicts hotel review ratings based on user
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:petershamoun80@gmail.com)
 
 ---
-
-*Made with 💙 by Peter Shamoun*
