@@ -69,7 +69,7 @@ A deep learning web application that predicts hotel review ratings based on user
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/peter-shamoun)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/peter-shamoun)
 [![Personal Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=web&logoColor=white)](https://petershamoun.com/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:petershamoun80@gmail.com)
 
