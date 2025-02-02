@@ -46,15 +46,22 @@ I'm a Data Science student at UC San Diego. I love solving real-world problems t
 ## 📂 Featured Projects
 
 ### [Cheat Sheet AI](https://cheat-sheet-ai.com)
+
 **Technologies**: Python, React.js, OpenAI API
+
 An AI-powered cheat sheet generator that builds cheat sheets based on a students course material.
-<img src="py.png" alt="Python" width="160"/>
+
+<img src="cheatsheetaitheme.png" alt="Python" width="160"/>
+
 ### [Graph Theory](https://peter-shamoun.github.io/Graph-Theory/)
+
 **Technologies**: React.js, D3.js, HTML/CSS  
+
 An interactive web application that visualizes graph theory algorithms. Built to make learning graph theory more intuitive by letting you watch algorithms like BFS, DFS, Dijkstra's and more run in real-time on your custom graphs.
+
 [Open Source Code](https://github.com/peter-shamoun/Graph-Theory)
 
-<img src="py.png" alt="Python" width="160"/>
+<img src="graph4.png" alt="Python" width="160"/>
 
 ### And many other noteable projects!
 
