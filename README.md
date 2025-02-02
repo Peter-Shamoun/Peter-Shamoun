@@ -51,7 +51,7 @@ I'm a Data Science student at UC San Diego. I love solving real-world problems t
 
 An AI-powered cheat sheet generator that builds cheat sheets based on a students course material.
 
-<img src="cheatsheetaitheme.png" alt="Python" width="160"/>
+<img src="cheatsheetaitheme.png" alt="Python" width="800"/>
 
 ### [Graph Theory](https://peter-shamoun.github.io/Graph-Theory/)
 
@@ -61,7 +61,7 @@ An interactive web application that visualizes graph theory algorithms. Built to
 
 [Open Source Code](https://github.com/peter-shamoun/Graph-Theory)
 
-<img src="graph4.png" alt="Python" width="160"/>
+<img src="graph4.png" alt="Python" width="800"/>
 
 ### And many other noteable projects!
 
