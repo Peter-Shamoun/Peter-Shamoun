@@ -45,25 +45,16 @@ I'm a Data Science student at UC San Diego. I love solving real-world problems t
 
 ## 📂 Featured Projects
 
-### [Email Summarizer](https://github.com/Peter-Shamoun/Email-Summarizer)
-**Technologies**: Python, Google API, OpenAI API, React.JS  
-A tool to quickly summarize daily emails, saving time with automated NLP-based summaries with a React app frontend.
+### [Cheat Sheet AI](https://cheat-sheet-ai.com)
+**Technologies**: Python, React.js, OpenAI API
+An AI-powered cheat sheet generator that builds cheat sheets based on a students course material.
 
-### [Sharp Healthcare AI Voice Assistant](https://github.com/Peter-Shamoun/Sharp-Healthcare-AI-Voice-Assistant)
-**Technologies**: Node.js, OpenAI API, Twilio API  
-An AI voice assistant designed for navigating the Sharp Healthcare app with ease, including voice commands.
+### [Graph Theory](https://peter-shamoun.github.io/Graph-Theory/)
+**Technologies**: React.js, D3.js, HTML/CSS  
+An interactive web application that visualizes graph theory algorithms. Built to make learning graph theory more intuitive by letting you watch algorithms like BFS, DFS, Dijkstra's and more run in real-time on your custom graphs.
+[Open Source Code](https://github.com/peter-shamoun/Graph-Theory)
 
-### [AI-Powered Supermarket Deal Finder](https://github.com/Peter-Shamoun/Deal-Finder)
-**Technologies**: Python, OpenAI API, Beautifulsoup, Selenium, Streamlit  
-An application that finds the best supermarket deals by using the OpenAI API to gather prices from scraped ad images. The project uses a streamlit UI that allows easily the user to  see the best deals for a product
-
-### [Jurrasic Classifier](https://github.com/Peter-Shamoun/Jurassic-Classifier)
-**Technologies**: Python, Pandas, PIL, TensorFlow, Flask  
-A deep learning web application that identifies dinosaur species from images using an ensemble of convolutional neural networks.
-
-### [Tripadvisor Sentiment Analysis](https://github.com/Peter-Shamoun/Tripadvisor-Sentiment-Analysis)
-**Technologies**: Python, Pandas, TensorFlow, Flask  
-A deep learning web application that predicts hotel review ratings based on user input using a neural network model with a Flask frontend. 
+### And many other noteable projects!
 
 ---
 
