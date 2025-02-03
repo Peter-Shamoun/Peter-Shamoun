@@ -63,7 +63,7 @@ An interactive web application that visualizes graph theory algorithms. Built to
 
 <img src="graph4.png" alt="Graph Theory" width="800"/>
 
-### And many other noteable projects!
+### And many other notable projects!
 
 ---
 
